@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.weddini.throttling</groupId>
-    <artifactId>spring-boot-throttling</artifactId>
+    <artifactId>spring-boot-throttling-core</artifactId>
     <version>0.0.9</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-throttling</name>
+    <name>spring-boot-throttling-core</name>
     <description>Annotation-based throttling for Spring Boot</description>
 
     <properties>
